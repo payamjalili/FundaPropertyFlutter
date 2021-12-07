@@ -7,15 +7,15 @@ const RESOURCES = {
 "manifest.json": "1256e1bc86572db96d47df5c39116958",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
-"main.dart.js": "5bdfbc4bca15f43a283e1e9ce4df8e08",
+"main.dart.js": "787ccaf941d35edf41d4f02a96bd28de",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
-"index.html": "fd1efae27b8e5ad5ef6c67ebfe2199ac",
-"/": "fd1efae27b8e5ad5ef6c67ebfe2199ac",
+"index.html": "18abd0a7a6d007138abda94a1b0cb434",
+"/": "18abd0a7a6d007138abda94a1b0cb434",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
 "assets/AssetManifest.json": "2374b15d8f040dc915da5e3dffa3e5cd",
 "assets/assets/images/fundawonen-logo.svg": "9071348def80c1f7ad50d0ad6545a87e",
-"assets/NOTICES": "4bbfa7a034e698582dda768b02f64db2",
+"assets/NOTICES": "938ad2cc82686d1ed3ad64bde23005ad",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e"
 };
 
